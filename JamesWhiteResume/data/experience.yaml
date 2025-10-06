@@ -1,0 +1,35 @@
+- company: General Mills
+  roles:
+    - role: North American Retail Sales Intern
+      details: |
+        Utilized Excel to analyze historical data from Neilson, Analysis forOffice (AFO), and Tableau dashboards,uncovering key insights to guide future business decisiois.
+        Developed advanced Excel skills, including data cleaning, manipulation, and visualization techniques, to present comprehensive data-driven recommendations to management.
+        Demonstrated proficiency in extracting, aggregating, and interpreting complex data from multiple sources to identify trends and inform strategic planning
+      date: 05.2024 -  08.2024
+
+- company: Relevant Course Work
+  page: 1
+  roles: 
+    - role: MIS 464 Data Analytics
+      tools: SQL, Flink, Kafka
+      details: |
+        Applied supervised and unsupervised machine learning techniques (Decision Trees, KNN, Random Forest) to classify over 1.2 million IoT network packets, achieving up to 98.4% accuracy in identifying malicious traffic
+        Enhanced understanding of data analytics using similarity, decision trees, and linear regression 
+        Gained hands-on experience with real-world cybersecurity data, model evaluation (precision, recall, F1-score), and proposed ensemble strategies to improve classification of benign vs. attack traffic
+    
+    - role: MIS 516 Risk Assessment
+      tools: HTML, PHP, CSS
+      details: |
+        Conducted multi-scenario risk assessments using the FAIR framework and Monte Carlo simulations to evaluate threats like skimmer attacks, cybercriminal phishing, and insider threats, quantifying losses up to $31M
+        Authored professional risk reports with metrics including ALE, LEF, and ROSI; recommended mitigation strategies such as encryption, access controls, and PCI DSS compliance to reduce risk exposure by up to 50%
+
+- company: Company 1
+  page: 2
+  roles:
+    - role: Junior Software Developer
+      tools: C#, Python, Postgresql
+      details: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
+        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
+      date: 2017 - 2018
